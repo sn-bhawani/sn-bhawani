@@ -5,7 +5,7 @@ I have been on my coding journey since 2020, continuously learning, adapting, an
 ### 🚀 What I'm Building & Learning
 *   **Node.js & Express:** Built a full backend project utilizing the Express.js framework.
 *   **Android Development (Java):** Developing mobile applications and building custom UI components (such as resolving upgrade button integrations for projects like Saarathi).
-*   **Continuous Exploration:** Currently diving into **MongoDB** for database management, and have hands-on experimental experience with **Django** and **Ruby on Rails**.
+*   **Continuous Exploration:** Currently diving into **MongoDB** for database management.
 
 ### 💻 My Tech Stack
 

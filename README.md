@@ -57,5 +57,5 @@ I have been on my coding journey since 2020, continuously learning, adapting, an
 ---
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github.readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github.readme-stats.vercel.app/api?username=sn-bhawani&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>

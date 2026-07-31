@@ -53,9 +53,3 @@ I have been on my coding journey since 2020, continuously learning, adapting, an
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
 </p>
-
----
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github.readme-stats.vercel.app/api?username=sn-bhawani&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>

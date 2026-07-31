@@ -1,6 +1,11 @@
 ## Hi there 👋, I'm a Full Stack Software Developer
 
-I have been on my coding journey since 2019, continuously learning, adapting, and building robust applications across the stack. You can check out my work at [kedarnexttechnology.com](https://kedarnexttechnology.com).
+I have been on my coding journey since 2020, continuously learning, adapting, and building robust applications across web, mobile, and desktop platforms. You can check out my work at [kedarnexttechnology.com](https://kedarnexttechnology.com).
+
+### 🚀 What I'm Building & Learning
+*   **Node.js & Express:** Built a full backend project utilizing the Express.js framework.
+*   **Android Development (Java):** Developing mobile applications and building custom UI components (such as resolving upgrade button integrations for projects like Saarathi).
+*   **Continuous Exploration:** Currently diving into **MongoDB** for database management, and have hands-on experimental experience with **Django** and **Ruby on Rails**.
 
 ### 💻 My Tech Stack
 
@@ -15,19 +20,30 @@ I have been on my coding journey since 2019, continuously learning, adapting, an
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-**Frontend Development:**
+**Frontend, Mobile & Desktop:**
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React JS" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Angular.js-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="Angular.js" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
 </p>
 
-**Backend & Databases:**
+**Backend & Frameworks:**
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" />
+</p>
+
+**Databases & Cloud:**
+<p align="left">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
 **Tools, Design & Platforms:**
@@ -43,5 +59,5 @@ I have been on my coding journey since 2019, continuously learning, adapting, an
 ---
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github.readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
